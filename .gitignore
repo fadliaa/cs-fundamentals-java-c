@@ -1,0 +1,8 @@
+java/out/
+*.class
+*.o
+*.exe
+c/test_int_list
+.vscode/
+.idea/
+.DS_Store
